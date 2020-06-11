@@ -2,7 +2,7 @@
 
 ## TODO
 
-- read and try from [here](https://musicinformationretrieval.com/magnitude_scaling.html)
+- read and try [this](https://musicinformationretrieval.com/magnitude_scaling.html)
 
 ## terms
 
